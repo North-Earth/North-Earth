@@ -57,7 +57,7 @@
 </p>
 <h2>Links</h2>
 <p>
-    <a href="https://www.codewars.com/users/North_Earth">
+    <a href="https://www.codewars.com/users/North-Earth">
         <img alt="CodeWars"
             src="https://img.shields.io/badge/-CodeWars-B1361E?style=for-the-badge&logo=CodeWars&logoColor=white" />
     </a>
