@@ -65,6 +65,10 @@
         <img alt="Linked In"
             src="https://img.shields.io/badge/-Linked%20In-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
     </a>
+    <a href="https://habr.com/ru/users/revolt27/posts/">
+        <img alt="Habr"
+            src="https://img.shields.io/badge/-Habr-77A2B6?style=for-the-badge&logo=Habr&logoColor=white" />
+    </a>        
 </p>
 </div>
 
