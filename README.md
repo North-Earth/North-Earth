@@ -9,16 +9,12 @@
 <p>
     <img alt="C#"
         src="https://img.shields.io/badge/C%20Sharp-blue?style=for-the-badge&logo=C%20sharp&logoColor=white" />
-    <img alt=".NET Core"
+    <img alt=".NET"
         src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
     <img alt="MS SQL"
         src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
     <img alt="React"
         src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-    <img alt="Node.JS"
-        src="https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-    <img alt="NGINX"
-        src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" />
 </p>
 <p>
     <img alt="VS"
@@ -30,14 +26,22 @@
 </p>
 <h3>Also I’m currently learning</h3>
 <p>
+    <img alt="Docker"
+        src="https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=white" />
+    <img alt="Kubernetes"
+        src="https://img.shields.io/badge/-Kubernetes-3970e4?style=for-the-badge&logo=Kubernetes&logoColor=white" />
+    <img alt="Vue"
+        src="https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&logo=vue&logoColor=white" /> 
+    <img alt="Single-Spa"
+        src="https://img.shields.io/badge/-Single Spa-8e2d08?style=for-the-badge&logo=Single-Spa&logoColor=white" />  
+    <img alt="Electron"
+        src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white" />
+    <img alt="MongoDB"
+        src="https://img.shields.io/badge/-Mongo-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />        
     <img alt="Swift"
         src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white" />
     <img alt="Unity"
         src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white" />
-    <img alt="Electron"
-        src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white" />
-    <img alt="MongoDB"
-        src="https://img.shields.io/badge/-Mongo-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
 </p>
 <p>
     <img alt="macOS"
